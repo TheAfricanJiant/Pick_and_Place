@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Edge Impulse Cube Detection Banner](images/edge_impulse_step_12.png)
+![Edge Impulse Cube Detection Banner](images/edge_impulse_1.jpg)
 
 ### **Train and Deploy an Edge Impulse YOLO Pro Object Localization Model for Robotic Arm Cube Pick & Place**
 
