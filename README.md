@@ -155,7 +155,7 @@ A stable data acquisition platform is critical for high object recognition accur
 
 The initial baseline training achieved **70% validation precision** on the first training epoch:
 
-![Model Training Results](images/images/img_6a1a8572016810.90020178.png)
+![Model Training Results](images/img_6.png)
 
 ### Model Specs
 - **Input Resolution:** $96 \times 96$ RGB
